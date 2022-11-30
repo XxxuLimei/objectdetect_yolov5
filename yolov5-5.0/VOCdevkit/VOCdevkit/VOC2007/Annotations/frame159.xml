@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>frame159.jpg</filename>
+	<path>/home/xlm/VOC2007/JPEGImages/frame159.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pure black</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>298</ymin>
+			<xmax>789</xmax>
+			<ymax>863</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>black-white</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>893</xmin>
+			<ymin>431</ymin>
+			<xmax>1472</xmax>
+			<ymax>1007</ymax>
+		</bndbox>
+	</object>
+</annotation>

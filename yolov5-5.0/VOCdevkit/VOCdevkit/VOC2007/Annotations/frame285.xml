@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>frame285.jpg</filename>
+	<path>/home/xlm/VOC2007/JPEGImages/frame285.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pure black</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>322</ymin>
+			<xmax>765</xmax>
+			<ymax>857</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>black-white</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>901</xmin>
+			<ymin>443</ymin>
+			<xmax>1467</xmax>
+			<ymax>1006</ymax>
+		</bndbox>
+	</object>
+</annotation>
